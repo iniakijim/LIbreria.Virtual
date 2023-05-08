@@ -1,0 +1,96 @@
+
+
+/*-------HEADER---------*/
+
+.todolibros{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.navegador{
+    display: flex;
+    list-style: none;
+    text-align: center;
+    justify-content: left;
+    text-decoration: none;
+}
+
+
+
+
+
+/*--------MAIN----------*/
+
+.literaturas{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ciencia h2{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.infantiles h2{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.novelas h2{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.ciencia div img{
+    width: 100px;
+    height: 150px;
+    margin-right: 35px;
+    
+    background-color: bisque;
+}
+
+.infantiles div img{
+
+    width: 100px;
+    height: 150px;
+    margin-right: 35px;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.novelas div img{
+    
+    width: 100px;
+    height: 150px;
+    margin-right: 35px;
+    justify-content: center;
+    background-color: bisque;
+}
+
+
+
+/*---------FOOTER---------*/
+
+h3{
+    font-style: italic;
+    font-size: 20px;
+}
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+
+
+h4{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-size: 15px;
+}
